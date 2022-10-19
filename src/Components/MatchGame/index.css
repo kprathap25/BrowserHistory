@@ -1,0 +1,10 @@
+.list-img {
+  width: 100px;
+  margin: 10px;
+}
+.btn-image {
+  outline: none;
+  border-width: 0px;
+  cursor: pointer;
+  background-color: transparent;
+}

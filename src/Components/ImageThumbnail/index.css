@@ -1,0 +1,18 @@
+.li-list {
+  margin: 10px;
+  cursor: pointer;
+}
+.btn {
+  outline: none;
+  border-width: 0px;
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 25px;
+  background-color: transparent;
+  cursor: pointer;
+}
+.btn-under-line {
+  text-decoration: underline;
+  color: #fec653;
+}
